@@ -1,0 +1,7 @@
+\\FANNIEMAE.COM\Corp\DC\NetApp\Filer3\v6udbv\Documents\Visual Studio 2013\Projects\SP.DemoApp\SP.DemoApp\bin\Debug\SP.DemoApp.exe.config
+\\FANNIEMAE.COM\Corp\DC\NetApp\Filer3\v6udbv\Documents\Visual Studio 2013\Projects\SP.DemoApp\SP.DemoApp\bin\Debug\SP.DemoApp.exe
+\\FANNIEMAE.COM\Corp\DC\NetApp\Filer3\v6udbv\Documents\Visual Studio 2013\Projects\SP.DemoApp\SP.DemoApp\bin\Debug\SP.DemoApp.pdb
+\\FANNIEMAE.COM\Corp\DC\NetApp\Filer3\v6udbv\Documents\Visual Studio 2013\Projects\SP.DemoApp\SP.DemoApp\bin\Debug\Microsoft.IdentityModel.dll
+\\FANNIEMAE.COM\Corp\DC\NetApp\Filer3\v6udbv\Documents\Visual Studio 2013\Projects\SP.DemoApp\SP.DemoApp\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+\\FANNIEMAE.COM\Corp\DC\NetApp\Filer3\v6udbv\Documents\Visual Studio 2013\Projects\SP.DemoApp\SP.DemoApp\obj\Debug\SP.DemoApp.exe
+\\FANNIEMAE.COM\Corp\DC\NetApp\Filer3\v6udbv\Documents\Visual Studio 2013\Projects\SP.DemoApp\SP.DemoApp\obj\Debug\SP.DemoApp.pdb
