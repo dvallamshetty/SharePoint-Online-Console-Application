@@ -11,7 +11,7 @@ namespace SP.DemoApp
     {
         static void Main(string[] args)
         {
-            Uri siteUri = new Uri("https://fnma.sharepoint.com/sites/CPM_Operations/");
+            Uri siteUri = new Uri("https://tenant.sharepoint.com/<site>");
             string realm = TokenHelper.GetRealmFromTargetUrl(siteUri);
 
             string accessToken = TokenHelper.GetAppOnlyAccessToken(TokenHelper.SharePointPrincipal,
